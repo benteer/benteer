@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benteer" alt="benteer" /></a> </p>
 
-- 🔭 I’m currently working on Computer Engineering [Personal protofolio](https://glittering-paletas-790e52.netlify.app/)
+- 🔭 I’m currently working on Computer Engineering [Personal protofolio]
 
 - 🌱 I’m currently learning **DSA/Java/typescript**
 
