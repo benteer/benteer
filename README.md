@@ -1,7 +1,7 @@
 
 ![logo](https://media.licdn.com/dms/image/D4D2DAQF4Es5jipM7WA/profile-treasury-image-shrink_800_800/0/1691923059346?e=1696863600&v=beta&t=qif_BuTLSTMb-MzybTbjzabXOp9piS2NRdyIY7z9GB0)
 <h1 align="center">Hi 👋, I'm Sandip Bhande</h1>
-<h3 align="center">A passionate frontend developer , Software Engineer from India</h3>
+<h3 align="center">A passionate devolper  , Software Engineer from India</h3>
 <img align = "right"  alt="frontend developer"width= "400" src= "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
 >
 
@@ -9,13 +9,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benteer" alt="benteer" /></a> </p>
 
-- 🔭 I’m currently working on Computer Engineering [Personal protofolio]
 
 - 🌱 I’m currently learning **DSA/Java/typescript**
 
 - 👯 I’m looking to collaborate on [Movie Api](https://www.linkedin.com/feed/update/urn:li:activity:7015342740297179136/)
 
-- 👨‍💻 All of my projects are available at [https://glittering-paletas-790e52.netlify.app/](https://glittering-paletas-790e52.netlify.app/)
+- 👨‍💻 All of my projects are available at my profile
 
 - 💬 Ask me about **Reactjs, C++ , Javascript , Java , Python Frontend developer**
 
