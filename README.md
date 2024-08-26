@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at my profile
 
-- 💬 Ask me about **Reactjs, C++ , Javascript , Java , Python Frontend developer**
+- 💬 Ask me about **Reactjs, C++ , Javascript , Java , Python  , Frontend developer**
 
 - 📫 How to reach me **Sandeepbhande12003@gmail.com**
 
