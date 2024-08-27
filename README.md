@@ -2,9 +2,8 @@
 ![logo](https://media.licdn.com/dms/image/D4D2DAQF4Es5jipM7WA/profile-treasury-image-shrink_800_800/0/1691923059346?e=1696863600&v=beta&t=qif_BuTLSTMb-MzybTbjzabXOp9piS2NRdyIY7z9GB0)
 <h1 align="center">Hi 👋, I'm Sandip Bhande</h1>
 <h3 align="center">A passionate devolper  ,  QA testing ,  Devops engineer from India</h3>
-<img align = "right"  alt="frontend developer"width= "400" src= "https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064"
-  
->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benteer&label=Profile%20views&color=0e75b6&style=flat" alt="benteer" /> </p>
 
